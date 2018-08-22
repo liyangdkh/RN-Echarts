@@ -6,7 +6,7 @@
   
 ## install
 
-$ npm install native-echarts --save
+$ npm install liyangdkh/RN-Echarts
 
 ## Usage
 
